@@ -1,0 +1,175 @@
+body{
+  min-width: 960px; 
+  background-color: #D1D8D7;
+    background-image: url("http://images.all-free-download.com/images/graphicthumb/1mio_drops_red_rose_ii_1mio_tropfen_rote_rose_ii_516061.jpg");
+background-attachment: fixed;
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.main{
+  margin-top: -10px;
+  background-color: #8EDB6D;
+  margin-bottom:-30px;
+}
+
+
+
+.prop{
+  padding-top: 90px;
+    font-size: 1em;
+}
+
+
+header {
+  background-color: green;
+    height: 70px;
+    width: 100%;
+    margin: 0px;
+    position: fixed;
+    padding-top: -10px;
+    
+}
+
+
+
+header h1 {
+    margin-top: 20px;
+    font-size: 2em;
+    padding-bottom: 10px;
+    color: white;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+
+
+ul li{
+    float: left;
+    padding-top: 25px;
+    padding-left: 50px;
+}
+
+
+
+nav li a{
+    color: white;
+    text-decoration: none;
+    padding-right: 5px;
+}
+
+
+
+.prop {
+  
+    font-size: 1.5em;
+    padding-top: 80px;
+    padding-bottom: 10px;
+}
+
+
+
+article {
+    margin-bottom: 10px;
+    text-align: center;
+    color: white;
+    height: 500px;
+    padding-top: 150px;
+    font-size: 2em;
+
+}
+article h1{
+  padding-top: 100px;
+  padding-bottom: 50px;
+  font-size: 2em;
+}
+
+
+
+
+article blockquote{
+  color: white;
+  font-style:italic;
+  font-size: 1.5em;
+}
+
+
+
+figcaption{
+  padding-top:0px;
+  padding-bottom: 0px;
+}
+
+
+
+img{
+  padding-bottom: 0px;
+}
+
+
+
+ article a {
+  text-decoration: none;
+  text-shadow: 3px 5px 5px black;
+}
+
+
+
+article h1{
+  color: white;
+}
+
+
+
+section h2{
+  
+  padding-top: 10px;
+  color: green;
+
+}
+.last{
+  font-size: 1.5em;
+}
+
+
+
+section a{
+  text-decoration: none;
+}
+
+
+
+
+a:hover{
+  color: red;
+}
+
+
+
+
+footer {
+    
+    height: 60px;
+    background-color: green;
+    margin-bottom: 5px;
+    color: white;
+
+}
+
+
+
+footer section {
+    padding-top: 10px;
+    padding-left: 10px;
+  color: white;
+}
+
+
+
