@@ -3,7 +3,6 @@ body{
 	background-color: #D1D8D7;
     background-image: url("http://images.all-free-download.com/images/graphicthumb/1mio_drops_red_rose_ii_1mio_tropfen_rote_rose_ii_516061.jpg");
 background-attachment: fixed;
-	background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Open Sans', sans-serif;
 
@@ -24,7 +23,6 @@ background-attachment: fixed;
   margin-right: auto;
   width: 960px;
 }
-
 
 
 
@@ -234,18 +232,3 @@ footer section {
 
 
 
-.container_12:before,
-.container_12:after {
-  content: '.';
-  display: block;
-  overflow: hidden;
-  visibility: hidden;
-  font-size: 0;
-  line-height: 0;
-  width: 0;
-  height: 0;
-}
-
-.container_12:after {
-  clear: both;
-}
