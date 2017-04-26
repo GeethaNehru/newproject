@@ -1,26 +1,20 @@
 body{
-  min-width: 960px; 
-  background-color: #D1D8D7;
-    background-image: url("http://images.all-free-download.com/images/graphicthumb/1mio_drops_red_rose_ii_1mio_tropfen_rote_rose_ii_516061.jpg");
-background-attachment: fixed;
-    background-size: cover;
-    font-family: 'Open Sans', sans-serif;
+   min-width: 960px; 
+   background-color: #D1D8D7;
+   background-image: url("http://images.all-free-download.com/images/graphicthumb/1mio_drops_red_rose_ii_1mio_tropfen_rote_rose_ii_516061.jpg");
+   background-attachment: fixed;
+   background-size: cover;
+   font-family: 'Open Sans', sans-serif;
 
 }
 
 
 .main{
-  margin-top: -10px;
-  background-color: #8EDB6D;
-  margin-bottom:-30px;
+  background-color: #8EDB6D;  
 }
 
 
 
-.prop{
-  padding-top: 90px;
-    font-size: 1em;
-}
 
 
 header {
@@ -29,7 +23,7 @@ header {
     width: 100%;
     margin: 0px;
     position: fixed;
-    padding-top: -10px;
+    
     
 }
 
@@ -52,6 +46,7 @@ ul {
 
 
 ul li{
+  color: white;
     float: left;
     padding-top: 25px;
     padding-left: 50px;
@@ -67,8 +62,8 @@ nav li a{
 
 
 
-.prop {
-  
+.three-col-section{
+     
     font-size: 1.5em;
     padding-top: 80px;
     padding-bottom: 10px;
@@ -76,21 +71,33 @@ nav li a{
 
 
 
+.article-style{
+  background-image: url('http://orig02.deviantart.net/1a09/f/2017/087/6/4/kanzashi_easter_greeting_card_by_sabrinascraftingclub-db3uj68.jpg');
+  background-size: 940px 500px;
+
+}
+
+
+
+
 article {
     margin-bottom: 10px;
     text-align: center;
     color: white;
+    background-color: white;
     height: 500px;
     padding-top: 150px;
     font-size: 2em;
 
 }
-article h1{
+
+
+article a h2{
   padding-top: 100px;
   padding-bottom: 50px;
-  font-size: 2em;
-}
+  font-size: 3em;
 
+}
 
 
 
@@ -114,7 +121,6 @@ img{
 }
 
 
-
  article a {
   text-decoration: none;
   text-shadow: 3px 5px 5px black;
@@ -134,10 +140,16 @@ section h2{
   color: green;
 
 }
-.last{
+.second-column{
   font-size: 1.5em;
 }
 
+
+.first-column
+{
+font-size: 1.5em;
+
+}
 
 
 section a{
@@ -145,10 +157,8 @@ section a{
 }
 
 
-
-
 a:hover{
-  color: red;
+  color: white;
 }
 
 
@@ -156,7 +166,7 @@ a:hover{
 
 footer {
     
-    height: 60px;
+    height: 70px;
     background-color: green;
     margin-bottom: 5px;
     color: white;
