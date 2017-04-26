@@ -1,11 +1,10 @@
 body{
-   min-width: 960px; 
-   background-color: #D1D8D7;
-   background-image: url("http://images.all-free-download.com/images/graphicthumb/1mio_drops_red_rose_ii_1mio_tropfen_rote_rose_ii_516061.jpg");
-   background-attachment: fixed;
-   background-size: cover;
-   font-family: 'Open Sans', sans-serif;
-
+  min-width: 960px; 
+  background-color: #D1D8D7;
+  background-image: url("http://images.all-free-download.com/images/graphicthumb/1mio_drops_red_rose_ii_1mio_tropfen_rote_rose_ii_516061.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
 }
 
 
@@ -14,66 +13,60 @@ body{
 }
 
 
-
-
-
-header {
+header{
   background-color: green;
-    height: 70px;
-    width: 100%;
-    margin: 0px;
-    position: fixed;
-    
-    
+  height: 70px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;    
 }
 
 
 
-header h1 {
-    margin-top: 20px;
-    font-size: 2em;
-    padding-bottom: 10px;
-    color: white;
-    text-shadow: 5px 5px 10px white;
+header h1{
+  margin-top: 20px;
+  font-size: 2em;
+  padding-bottom: 10px;
+  color: white;
+  text-shadow: 5px 5px 10px white;
 }
 
 
-
-ul {
-    list-style-type: none;
-    margin: 0;
+ul{
+  list-style-type: none;
+  margin: 0;
 }
-
 
 
 ul li{
-    color: white;
-    float: left;
-    padding-top: 25px;
-    padding-left: 50px;
+  color: white;
+  float: left;
+  padding-top: 25px;
+  padding-left: 60px;
 }
 
-
+nav{
+  height: 70px;
+}
 
 nav li a{
-    color: white;
-    text-decoration: none;
-    padding-right: 5px;
+  color: white;
+  text-decoration: none;
+  padding-right: 5px;
 }
-
 
 
 .three-col-section{
-     
-    font-size: 1.5em;
-    padding-top: 80px;
-    padding-bottom: 10px;
+  font-size: 1.5em;
+  padding-top: 80px;
+  padding-bottom: 10px;
 }
 
-.three-col-section img
-{
+.three-col-section img{
   margin-left: 10px;
 }
+
+
 .three-col-section h2{
   text-align: center;
 }
@@ -83,21 +76,17 @@ nav li a{
 .article-style{
   background-image: url('http://orig02.deviantart.net/1a09/f/2017/087/6/4/kanzashi_easter_greeting_card_by_sabrinascraftingclub-db3uj68.jpg');
   background-size: 940px 500px;
-
 }
 
 
-
-
-article {
-    margin-bottom: 10px;
-    text-align: center;
-    color: white;
-    background-color: white;
-    height: 500px;
-    padding-top: 150px;
-    font-size: 2em;
-
+article{
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  background-color: white;
+  height: 500px;
+  padding-top: 150px;
+  font-size: 2em;
 }
 
 
@@ -105,7 +94,6 @@ article a h2{
   padding-top: 100px;
   padding-bottom: 50px;
   font-size: 3em;
-
 }
 
 
@@ -130,7 +118,7 @@ img{
 }
 
 
- article a {
+article a{
   text-decoration: none;
   text-shadow: 3px 5px 5px black;
 }
@@ -142,22 +130,18 @@ article h1{
 }
 
 
-
 section h2{
-  
   padding-top: 10px;
   color: green;
-
 }
+
 .second-column{
   font-size: 1.5em;
 }
 
 
-.first-column
-{
+.first-column{
 font-size: 1.5em;
-
 }
 
 
@@ -171,22 +155,17 @@ a:hover{
 }
 
 
-
-
-footer {
-    
-    height: 70px;
-    background-color: green;
-    margin-bottom: 5px;
-    color: white;
-
+footer{
+  height: 70px;
+  background-color: green;
+  margin-bottom: 5px;
+  color: white;
 }
 
 
-
-footer section {
-    padding-top: 10px;
-    padding-left: 10px;
+footer section{
+  padding-top: 10px;
+  padding-left: 10px;
   color: white;
 }
 
