@@ -58,17 +58,24 @@ nav li a{
 
 .three-col-section{
   font-size: 1.5em;
-  padding-top: 80px;
+  padding-top: 20px;
   padding-bottom: 10px;
 }
 
 .three-col-section img{
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 
 .three-col-section h2{
   text-align: center;
+}
+
+.three-col-section-header{
+  padding-top: 70px;
+  text-align:center;
+  padding-bottom: 10px;
+  font-size: 1.5em;
 }
 
 
